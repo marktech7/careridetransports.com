@@ -154,11 +154,8 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: -16px;
-    margin-bottom: 7px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    width: 340px;
+    margin: -9px auto 0;
   }
 
   .u-section-1 .u-image-1 {
@@ -755,7 +752,7 @@
 
   .u-section-4 .u-btn-2 {
     margin-top: 0;
-    margin-left: -41px;
+    margin-left: -24px;
   }
 
   .u-section-4 .u-image-1 {
